@@ -5,12 +5,6 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ## About Me
 
 - 🔭 I’m currently working on [my bachelor thesis](https://github.com/cubexy/ldbc_finbench_driver-gradoop_impl)
-- 🌱 I’m currently learning [working with Flink]
-- 👯 I’m looking to collaborate on [specific types of projects or technologies]
-- 🤔 I’m looking for help with [specific issues or areas]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [email@example.com]
-- ⚡ Fun fact: [A fun fact about you]
 
 ## My Skills
 
@@ -32,7 +26,3 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
   - docker-compose
   - Flink
   - Azure
-
-## GitHub Stats
-
-![cubexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubexy&show_icons=true&theme=radical)
