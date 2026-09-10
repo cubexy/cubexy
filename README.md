@@ -11,7 +11,7 @@
 
 I am a student developer based in Leipzig, Germany.
 
-## live demos
+## things you can look at
 
 ### [ctrl-knit](https://ctrl-knit.cubexy.de)
 
@@ -29,6 +29,6 @@ Built with Java, Spring, TypeScript, and React.
 
 [open demo →](https://vergleich24.cubexy.de)
 
-## more cool projects
+## more cool things
 
 More projects: [github.com/cubexy?tab=repositories](https://github.com/cubexy?tab=repositories)
