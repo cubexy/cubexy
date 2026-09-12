@@ -9,8 +9,6 @@
   </a>
 </p>
 
-I am a student developer based in Leipzig, Germany.
-
 ## things you can look at
 
 ### [ctrl-knit](https://ctrl-knit.cubexy.de)
