@@ -15,7 +15,7 @@
 
 A mobile-first knitting progress tracker.
 
-It uses CouchDB and PouchDB for a fully local cache layer. No backend.
+It uses CouchDB with PouchDB as a fully local cache layer. No backend.
 
 [open demo →](https://ctrl-knit.cubexy.de)
 
